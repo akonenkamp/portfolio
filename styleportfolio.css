@@ -1,3 +1,38 @@
-body {
-  background-color: red;
+header {
+  background-color: #28A0FF;
+  padding-top: 30px;
+  text-align: left;
+ 
 }
+
+footer {
+  background-color: #28A0FF;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: left;
+  padding-bottom: 10px;
+
+  
+}
+
+nav {
+  
+  clear: both;
+  background-color: aliceblue;
+  height: 40p;
+  
+}
+
+i {
+  color: black;
+  padding-left: 15px;
+}
+
+body {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.connect{
+  padding-left: 15px;
+}
+
