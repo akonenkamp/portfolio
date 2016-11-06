@@ -11,8 +11,6 @@ footer {
   padding-bottom: 10px;
   text-align: left;
   padding-bottom: 10px;
-
-  
 }
 
 nav {
@@ -32,7 +30,13 @@ body {
   font-family: 'Shadows Into Light', cursive;
 }
 
-.connect{
-  padding-left: 15px;
+article {
+  padding: 10px;
 }
+
+figure {
+  /*find way to center*/
+}
+
+
 
