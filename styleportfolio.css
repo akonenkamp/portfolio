@@ -28,6 +28,7 @@ i {
 
 body {
   font-family: 'Shadows Into Light', cursive;
+  color: grey;
 }
 
 article {
@@ -36,6 +37,10 @@ article {
 
 figure {
   /*find way to center*/
+}
+
+.project {
+  border: solid grey;
 }
 
 
