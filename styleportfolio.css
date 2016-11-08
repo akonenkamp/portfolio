@@ -3,6 +3,7 @@ header {
   padding-top: 30px;
   text-align: left;
  
+ 
 }
 
 footer {
@@ -18,7 +19,8 @@ nav {
   clear: both;
   background-color: aliceblue;
   height: 40p;
-  
+  text-align: center;
+
 }
 
 i {
@@ -36,7 +38,8 @@ article {
 }
 
 figure {
-  /*find way to center*/
+  text-align: center;
+ 
 }
 
 .project {
