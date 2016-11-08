@@ -12,6 +12,7 @@ footer {
   padding-bottom: 10px;
   text-align: left;
   padding-bottom: 10px;
+  text-align: center;
 }
 
 nav {
@@ -34,7 +35,7 @@ body {
 }
 
 article {
-  padding: 10px;
+  text-align: center;
 }
 
 figure {
@@ -44,6 +45,11 @@ figure {
 
 .project {
   border: solid grey;
+}
+
+.connect {
+  letter-spacing: 15px;
+  font-weight: bold;
 }
 
 
