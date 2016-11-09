@@ -45,12 +45,22 @@ figure {
 
 .project {
   border: solid grey;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .connect {
   letter-spacing: 15px;
   font-weight: bold;
 }
+
+.project1 {
+  text-align: center;
+}
+
+
 
 
 
