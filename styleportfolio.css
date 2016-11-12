@@ -60,7 +60,25 @@ figure {
   text-align: center;
 }
 
+#amandaheader:hover {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+  
+}
 
+#about {
+    -ms-transform: rotate(15deg); /* IE 9 */
+    -ms-transform-origin: 20% 40%; /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    -webkit-transform-origin: 20% 40%; /* Chrome, Safari, Opera */
+    transform: rotate(5deg);
+    transform-origin: 10% 20%;
+  
+  
+}
 
+.myself {
+  margin-top: 85px;
+}
 
 
