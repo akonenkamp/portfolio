@@ -63,6 +63,7 @@ figure {
 #amandaheader:hover {
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
+
   
 }
 
@@ -78,7 +79,7 @@ figure {
 }
 
 .myself {
-  margin-top: 85px;
+  margin-top: 150px;
 }
 
 #link-akone  {
@@ -86,7 +87,7 @@ figure {
 	padding: 4px;
 	outline: 0;
 	color: #3a599d;
-	transition-duration: 0.25s;
+	transition-duration: 1s;
 	transition-property: transform;
 	transform: scale(1) rotate(0);
 }
@@ -100,4 +101,8 @@ figure {
 	transform: scale(1.05) rotate(-1deg);
 }
 
+.aboutsection {
+  
+  font-size: 200%;
+}
 
