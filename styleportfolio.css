@@ -61,11 +61,12 @@ figure {
 }
 
 /*#amandaheader:hover {
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);*/
+    -webkit-transform: rotate(160deg);
+    transform: rotate(160deg);
+}*/
 
   
-}
+
 
 #about {
     -ms-transform: rotate(15deg); /* IE 9 */
@@ -84,12 +85,13 @@ figure {
 
 #link-akone  {
 	display: inline-block;
-	padding: 4px;
+	padding: 8px;
 	outline: 0;
 	color: #28A0FF;
 	transition-duration: 1s;
 	transition-property: transform;
 	transform: scale(1) rotate(0);
+    font-size: 20px;
 }
 
 
@@ -97,7 +99,7 @@ figure {
 	background: #28A0FF;
 	text-decoration: none;
 	color: #fff;
-	border-radius: 4px;
+	border-radius: 8px;
 	transform: scale(1.05) rotate(-1deg);
 }
 
