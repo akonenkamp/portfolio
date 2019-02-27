@@ -120,8 +120,15 @@ figure {
   padding-bottom: 15px;
 }
 
+#cardSection {
+  margin: 60px;
+}
 
 
+#cardImage {
+  height: 75px;
+  width: 55px;
+}
 
 
 /*  SECTIONS  */
